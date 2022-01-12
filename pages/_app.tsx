@@ -4,7 +4,7 @@ import type { AppProps } from 'next/app'
 // #endregion Global Imports
 
 // #region Local Imports
-import '../src/styles/globals.scss'
+import '../src/Styles/globals.scss'
 import store from '../src/Store'
 // #endregion Local Imports
 
